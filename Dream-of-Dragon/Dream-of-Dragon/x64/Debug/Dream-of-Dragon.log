@@ -1,0 +1,4 @@
+﻿  Main.cpp
+D:\MyGithub\Dream-of-Dragon\Dream-of-Dragon\Dream-of-Dragon\Main.cpp(48,12): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+D:\MyGithub\Dream-of-Dragon\Dream-of-Dragon\x64\Debug\Dream-of-Dragon.exe : fatal error LNK1120: 1 unresolved externals
