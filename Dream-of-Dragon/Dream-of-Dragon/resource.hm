@@ -1,0 +1,4 @@
+// Microsoft Visual C++ generated Help ID include file.
+// Used by Resource.rc
+//
+#define HID_HELP_ABOUT                  0x80699c46    // IDD_DIALOG1
